@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.img{
+    mask-image:linear-gradient(to bottom, rgb(53, 56, 230), rgba(246, 246, 250, 0));
+    margin-bottom: -17rem;
+    
+}
+body{
+    background-color: rgb(234,237,237);
+}
